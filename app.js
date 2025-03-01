@@ -1,4 +1,4 @@
-const apiKey = 'YOUR API KEY';
+const apiKey = 'YourApi';
 const CACHE_DURATION = 1000 * 60 * 10; // 10 minutes
 let cache = new Map();
 
